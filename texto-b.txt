@@ -1,0 +1,7 @@
+Minha terra tem palmeiras
+Onde canta o sabiá
+Seno A, Cosseno B
+Seno B, Cosseno A
+
+-Seno da soma de 2 ângulos
+sen(a + b) = sen(a)xcos(b) + sen(b)xcos(a)
